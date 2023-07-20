@@ -35,7 +35,8 @@ Currently available modules
  1. Netflix Gift Card Generator
  2. MalwareByte ID & Key Generator
  3. MalwareByte Only Key Generator
- 4. Amazon Generator ( Pattern Type: XXXX-XXXXXX-XXXX) [Module - 1]
- 5. Amazon Generator ( Pattern Type: XXXX-XXXXXX-XXXXX) [Module - 2]
- 6. Special  **Gift Card, Activation Keys**  and  **Codes Generator**
+ 4. 
+ 5. Amazon Generator ( Pattern Type: XXXX-XXXXXX-XXXX) [Module - 1]
+ 6. Amazon Generator ( Pattern Type: XXXX-XXXXXX-XXXXX) [Module - 2]
+ 7. Special  **Gift Card, Activation Keys**  and  **Codes Generator**
 
